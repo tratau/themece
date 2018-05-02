@@ -1,0 +1,14 @@
+[
+{
+"author" : "Tartau",
+"name" : "ThemeName",
+"keyWords" : "keyword1,keyword2",
+"version" : "1.0.0",
+"dofusVersion" : "2.47",
+"description" : "Description of my theme",
+"url" : "https://github.com/tratau/themece/blob/master/testons.zip?raw=true",
+"previewUrl" : "Cliquez ici",
+"creationDate" : "08/10/2016",
+"modificationDate" : "08/10/2016"
+}
+]  
